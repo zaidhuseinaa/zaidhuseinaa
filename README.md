@@ -1,64 +1,62 @@
-<!-- [HEADER ANIMASI: INITIATING SYSTEM PROTOCOL] -->
+<h1 align="center">Hi 👋, I'm Zaid Husein</h1>
+<h3 align="center">A passionate Software Engineer & Informatics Student from Tasikmalaya, Indonesia</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=2000&color=00F2FE&center=true&vCenter=true&width=1000&lines=>>+SYSTEM+PROTOCOL+INITIATED:+ELITE+DEVELOPER+STATUS+ONLINE+<<<;STATUS:+GLOBAL+RANK+%230001;BUG+ELIMINATION+RATE:+99.9%25;LOC:+TASIKMALAYA,+INDONESIA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Informatics+Engineering;Software+Development;Building+Scalable+Solutions;Always+Learning+New+Tech&font=Fira%20Code&center=true&width=500&height=50&color=36BCF7&vCenter=true&pause=1000&size=20" alt="Typing effect" />
 </p>
 
-<!-- [AVATAR DINAMIS & PROFIL] -->
+<br/>
+
+<!-- BAGIAN STATISTIK (SEPERTI DI GAMBAR) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIyc3V5M3BvZXc0cXF6am90bndreWN0M29wYm1ldm14ZXEwZms5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="30%" alt="Zaid AI Construct">
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&color=CCEEFF&center=true&vCenter=true&width=400&lines=SYS+ADMIN:+ZAID+HUSEINA;AETHERIA+%5BPRO+LEVEL%5D" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zaidhuseinaa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidhuseinaa&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
----
-
-<!-- [VISUALISASI KONTRIBUSI 3D BERANIMASI] -->
-## 📊 3D Matrix Contribution Visualization
-
 <p align="center">
-  <img src="https://github-contribution-graph-matrix.deno.dev/output/graph?username=TULIS_USERNAME_MU_DISINI&theme=tokyonight&height=300" width="100%" alt="Animated 3D Contribution Matrix">
-</p>
-> *Visualisasi topografi waktu nyata dari intensitas komit global.*
-
----
-
-<!-- [TEKNOLOGI STACK LANJUTAN - KOTAK BERANI] -->
-## 🧠 Elite Technology Matrix (Advanced)
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-Cloud_Architect_(AWS)-00F2FE?style=for-the-badge&logo=amazonaws&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Quantum_Algorithm_Design-00F2FE?style=for-the-badge&logo=quantumcompute&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Deep_Learning_Specialist-00F2FE?style=for-the-badge&logo=python&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Fullstack_Aetheria-00F2FE?style=for-the-badge&logo=react&logoColor=black" /></a>
-</p>
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=nodedotjs&logoColor=lime" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-C%2B%2B-333333?style=for-the-badge&logo=cplusplus&logoColor=cyan" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker&logoColor=cyan" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaidhuseinaa&theme=tokyonight&hide_border=true" width="97%" />
 </p>
 
----
+<br/>
 
-<!-- [STATISTIK GLOBAL & JARINGAN WAKTU NYATA] -->
-## 📡 Global Network Statistics
-
+<!-- BAGIAN TECH STACK (DISUSUN RAPI SEPERTI GAMBAR) -->
+<h3 align="center">💻 Tech Stack</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TULIS_USERNAME_MU_DISINI&theme=tokyonight&hide_border=true&sideChars=🔥" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=TULIS_USERNAME_MU_DISINI&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Zaid's GitHub Stats" width="48%" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
----
+<br/>
 
-<!-- [LOG JARINGAN WAKTU NYATA (PENGGANTI LINK SOSIAL)] -->
-## 🌐 Real-Time Operational Network Log
-
+<!-- BAGIAN SOSIAL MEDIA -->
+<h3 align="center">🤝 Connect with Me</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/-LINKEDIN:_ESTABLISHED-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/-DISCORD:_ONLINE-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TWITCH:_ONLINE-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+  <a href="https://linkedin.com/in/zaidhusein"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/zaidhusein"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+<br/>
+
+<!-- ANIMASI SNAKE GITHUB (OTOMATIS MEMAKAN KOTAK HIJAU KONTRIBUSIMU) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-YOUTUBE:_GLOBAL_BROADCAST-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SYSTEM_OPERATIONAL_24/7-333333?style=for-the-badge&logo=octocat&logoColor=00F2FE" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaidhuseinaa/zaidhuseinaa/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zaidhuseinaa/zaidhuseinaa/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zaidhuseinaa/zaidhuseinaa/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </p>
